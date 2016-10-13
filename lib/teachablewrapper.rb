@@ -1,3 +1,5 @@
+require_relative "teachablewrapper/version"
+
 require 'net/http'
 require 'json'
 require 'uri'
